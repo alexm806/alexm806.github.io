@@ -1,4 +1,4 @@
-# Sample Webstite
+# Sample Website
 
 ## Purpose / Goals
 
